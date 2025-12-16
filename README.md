@@ -31,7 +31,12 @@ It focuses on applying biostatistical methods to analyze and visualize biologica
 ---
 
 ## Results Summary
-- [Write 2–3 sentences about what you found — e.g., “The analysis revealed a significant correlation between X and Y (p < 0.05). Visualization showed…”]
+This project demonstrates statistical analysis and exploratory data analysis
+using a clinical heart disease dataset. The analysis focuses on understanding
+relationships between serum cholesterol and key clinical variables such as age,
+resting blood pressure, and maximum heart rate. Linear regression models,
+model comparison, and stratified visualizations were used to evaluate variable
+importance and interpret patterns across patient subgroups.
 
 ---
 
