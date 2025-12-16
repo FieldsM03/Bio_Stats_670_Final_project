@@ -1,4 +1,4 @@
-# BIO_STATS_670 Final Project
+# HEART DISEASE
 **Author:** Mitchell Fields  
 **Program:** M.S. Data Science & Analytics – SUNY Buffalo State University  
 
